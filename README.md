@@ -3,9 +3,15 @@
 <h2>This Repository contains Several 3D Model I designed using SolidWorks</h2>
 
 <p align="center">
-  <img src="images/home.jpg" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="images/cnc2.jpg" width="350" title="hover text">
+  <img src="images/cnc1.jpg" width="350" alt="accessibility text">
 </p>
+
+<p align="center">
+  <img src="images/cycle.jpg" width="350" title="hover text">
+  <img src="images/fan.jpg" width="350" alt="accessibility text">
+</p>
+
 
 * Cooling Fan
 * Home Model
