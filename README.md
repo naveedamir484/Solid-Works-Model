@@ -19,10 +19,12 @@
 
 <p align="center">
   <img src="images/fan.jpg"  width="350" alt="accessibility text">
-   <img src="images/cycle.jpg" width="350" title="cycle">
+  <img src="images/fan2.jpg"  width="350" alt="accessibility text">
+
 </p>
 
 <p align="center">
+   <img src="images/cycle.jpg" width="350" title="cycle">
   <img src="images/home.jpg" width="350" title="cycle">
 </p>
 
