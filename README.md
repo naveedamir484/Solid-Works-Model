@@ -22,7 +22,7 @@
    <img src="images/cycle.jpg" width="350" title="cycle">
 </p>
 
-<p >
+<p align="center">
   <img src="images/home.jpg" width="350" title="cycle">
 </p>
 
