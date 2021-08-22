@@ -1,8 +1,6 @@
 # Solid Works
 
 <h2>This Repository contains Several 3D Model I designed using SolidWorks</h2>
-<script src="https://embed.github.com/view/3d/naveedamir484/Solid-Works-Model//<path_to_file>"></script>
-
 
 * Cooling Fan
 * Home Model
