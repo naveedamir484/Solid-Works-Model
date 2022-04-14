@@ -20,5 +20,15 @@
   <img src="images/home.jpg" width="350" title="cycle">
 </p>
 
+# Note for contributors
+
+* Fork repository and Contribute.
+* Extrace zip file or Clone this repository.
+* Open this Project in Solid Works and Ready to go.
+
+# Developer
+All Suggestions are Accepted and Wellcome and feel free to report issues and bugs. It will be helpful.
+Mohammad Naveed Amir
+(naveedamir484@gmail.com)
 
 
