@@ -17,7 +17,10 @@
 
 <p align="center">
    <img src="images/cycle.jpg" width="700" title="cycle">
-  <!-- <img src="images/home.jpg" width="350" title="cycle"> -->
+</p>
+
+<p align="center">
+  <img src="images/home.jpg" width="350" title="cycle">
 </p>
 
 # Note for contributors
