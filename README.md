@@ -5,26 +5,24 @@
 * <b>Cycle </b> - First I designed different parts separately such as padel, seat, handel, tyres.etc and assembled them together.
 * <b>CNC Machine </b> - A college project, I completed in 3 different parts and finally Assembled them and then added animation to it.
 
- <br>
- <br>
- 
- <br>
- <br>
+ <br><br><br><br>
+ <hr></hr>
   <p align="center">
-  <img src="images/cnc2.jpg" width="600" title="cnc">
+ <kbd><img src="images/cnc2.jpg" width="600" title="cnc"></kbd>
   </p>
-  
+   <hr></hr>
    <p align="center">
-  <img src="images/fan.jpg"  width="600" alt="accessibility text">
+  <kbd><img src="images/fan.jpg"  width="600" alt="accessibility text"></kbd>
   </p>
-
+ <hr></hr>
 <p align="center">
-   <img src="images/cycle.jpg" width="600" title="cycle">
+   <kbd><img src="images/cycle.jpg" width="600" title="cycle"></kbd>
 </p>
-
+ <hr></hr>
 <p align="center">
-  <img src="images/home.jpg" width="600" title="cycle">
+  <kbd><img src="images/home.jpg" width="600" title="cycle"></kbd>
 </p>
+ <hr></hr>
 
 # Note for contributors
 
