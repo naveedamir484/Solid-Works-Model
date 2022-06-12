@@ -11,16 +11,19 @@
  <br>
  <br>
   <p align="center">
-  <img src="images/cnc2.jpg" width="350" title="cnc">
-  <img src="images/fan.jpg"  width="350" alt="accessibility text">
+  <img src="images/cnc2.jpg" width="600" title="cnc">
+  </p>
+  
+   <p align="center">
+  <img src="images/fan.jpg"  width="600" alt="accessibility text">
   </p>
 
 <p align="center">
-   <img src="images/cycle.jpg" width="700" title="cycle">
+   <img src="images/cycle.jpg" width="600" title="cycle">
 </p>
 
 <p align="center">
-  <img src="images/home.jpg" width="350" title="cycle">
+  <img src="images/home.jpg" width="600" title="cycle">
 </p>
 
 # Note for contributors
