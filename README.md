@@ -3,7 +3,8 @@
 
 * <b>Cooling Fan </b> - This Model designed  as a single body. 
 * <b>Cycle </b> - First I designed different parts separately such as padel, seat, handel, tyres.etc and assembled them together.
-* <b>CNC Machine </b> - A college project, I completed in 3 different parts and finally Assembled them and then added animation to it.
+* <b>2D CNC Machine </b> - A college project, I completed in 3 different parts and finally Assembled them and then added animation to it.
+* <b>3D CNC Machine </b> - A fundamental design for three dimensional printer having 50x50x50cm working area.
 
  <br><br>
  
@@ -13,7 +14,6 @@
   </p>
    <hr></hr>
    
-    <hr></hr>
   <p align="center">
  <kbd><img src="images/3dp.png" width="600" title="cnc"></kbd>
   </p>
